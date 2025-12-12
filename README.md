@@ -1,4 +1,4 @@
-# SYNAPTICON: Closed-Loop AI Multimodal Generation from Brain Signals: A BCI Framework Integrating EEG Decoding with LLMs and Transformers.
+# SYNAPTICON: Closed-Loop AI Multimodal Generation from Brain Signals: A Brain-Computer Interface (BCI) Framework Integrating EEG Decoding with LLMs and Transformers.
 
 # <img src="./images/SYNAPTICON_Cartography.png" alt="SYNAPTICON Cartography AlbertDATA" width="900"/>
 
